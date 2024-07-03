@@ -1,0 +1,153 @@
+Folder PATH listing
+Volume serial number is 4093-6162
+C:.
+|   App.css
+|   App.js
+|   App.test.js
+|   index.css
+|   index.js
+|   listeleme.cmd
+|   logo.svg
+|   reportWebVitals.js
+|   setupTests.js
+|   tree.txt
+|   
++---components
+|       Footer.js
+|       Header.js
+|       
++---pages
+|   |   About.js
+|   |   Client.js
+|   |   Contact.js
+|   |   Home.js
+|   |   Login.js
+|   |   Register.js
+|   |   Services.js
+|   |   WhatWeDo.js
+|   |   
+|   \---admin
+|           Admin.js
+|           
+\---styles
+    |   listeleme.cmd
+    |   tree.txt
+    |   
+    +---css
+    |       ajax-loader.gif
+    |       animate.min.css
+    |       bootstrap-grid.css
+    |       bootstrap-grid.css.map
+    |       bootstrap-grid.min.css
+    |       bootstrap-grid.min.css.map
+    |       bootstrap-reboot.css
+    |       bootstrap-reboot.css.map
+    |       bootstrap-reboot.min.css
+    |       bootstrap-reboot.min.css.map
+    |       bootstrap.css
+    |       bootstrap.css.map
+    |       bootstrap.min.css
+    |       bootstrap.min.css.map
+    |       default-skin.css
+    |       font-awesome.css
+    |       font-awesome.min.css
+    |       icomoon.css
+    |       jquery-ui.css
+    |       jquery.fancybox.min.css
+    |       jquery.mCustomScrollbar.min.css
+    |       listeleme.cmd
+    |       meanmenu.css
+    |       nice-select.css
+    |       normalize.css
+    |       owl.carousel.css
+    |       owl.carousel.min.css
+    |       owl.theme.default.css
+    |       owl.theme.default.min.css
+    |       owl.theme.green.css
+    |       owl.theme.green.min.css
+    |       owl.video.play.png
+    |       responsive.css
+    |       slick.css
+    |       style.css
+    |       style.css.map
+    |       style.scss
+    |       swiper.min.css
+    |       tree.txt
+    |       
+    +---fonts
+    |       fontawesome-webfont.ttf
+    |       fontawesome-webfont.woff
+    |       fontawesome-webfont.woff2
+    |       
+    +---images
+    |       about-img.jpg
+    |       banner-bg.png
+    |       client-bg.jpg
+    |       client-meeting.jpg
+    |       client.jpg
+    |       fb-icon.png
+    |       flag-france.png
+    |       flag-uk.png
+    |       img-1.png
+    |       img-10.png
+    |       img-11.png
+    |       img-12.png
+    |       img-13.png
+    |       img-14.png
+    |       img-15.png
+    |       img-16.png
+    |       img-17.png
+    |       img-18.png
+    |       img-2.png
+    |       img-3.png
+    |       img-4.png
+    |       img-5.png
+    |       img-6.png
+    |       img-7.png
+    |       img-8.png
+    |       img-9.png
+    |       instagram-icon.png
+    |       instagram.jpg
+    |       left-arrow.png
+    |       logo.png
+    |       logo2.png
+    |       play-icon.png
+    |       portfolio-bg.png
+    |       project1.jpg
+    |       project2.jpg
+    |       right-arrow.png
+    |       s1.png
+    |       s2.png
+    |       s3.png
+    |       s4.png
+    |       search-icon.png
+    |       slider-bg.jpg
+    |       toogle-icon.png
+    |       twitter-icon.png
+    |       w1.png
+    |       w2.png
+    |       w3.png
+    |       
+    \---js
+            bootstrap.bundle.js
+            bootstrap.bundle.js.map
+            bootstrap.bundle.min.js
+            bootstrap.bundle.min.js.map
+            bootstrap.js
+            bootstrap.js.map
+            bootstrap.min.js
+            bootstrap.min.js.map
+            custom.js
+            font-awesome.css
+            jquery-3.0.0.min.js
+            jquery-3.4.1.min.js
+            jquery.mCustomScrollbar.concat.min.js
+            jquery.min.js
+            jquery.validate.js
+            modernizer.js
+            owl.carousel.js
+            owl.carousel.min.js
+            plugin.js
+            popper.min.js
+            slider-setting.js
+            
